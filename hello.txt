@@ -1,1 +1,0 @@
-Hello, this is Jan Marc Albo learning Git!
